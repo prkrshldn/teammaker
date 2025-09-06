@@ -1,0 +1,24 @@
+{
+    "test": {
+        "name": "Karmine Corp",
+        "teamimg": "assets/img/teams/156px-Karmine_Corp_allmode.png",
+        "region": "EU",
+        "regionimg": "assets/img/flags/36px-Eu_hd.png",
+        "players": {
+            "p1": "Vatira",
+            "p1img": "assets/img/flags/36px-Fr_hd.png",
+            "p2": "drali",
+            "p2img": "assets/img/flags/36px-Ma_hd.png",
+            "p3": "Atow.",
+            "p3img": "assets/img/flags/36px-Be_hd.png"
+        },
+        "iscoach": "true",
+        "2coach": "true",
+        "coaches": {
+            "c1": "Ferra",
+            "c1img": "assets/img/flags/36px-Fr_hd.png",
+            "c2": "Jordi",
+            "c2img": "assets/img/flags/36px-Fr_hd.png"
+        }
+    }
+}

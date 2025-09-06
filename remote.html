@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/loadmaker.css">
+    <link rel="stylesheet" href="assets/css/maker.css">
+    <link rel="stylesheet" href="assets/css/dd.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;family=Droid+Sans+Mono&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap">
+</head>
+
+<body onload="menu()">
+
+    <div class="grid">
+        <fun>
+            <textarea style="width: 200%;" name="" id="jsontext"></textarea>
+        </fun>
+        <fun>
+            <label>Logo: </label>
+            <span id="logo"></span>
+            <textarea class="textfun" id="teamname"></textarea>
+            <br>
+            <label>Region: </label>
+            <span id="flag-name"></span>
+            <br>
+            <label>Tag: </label>
+            <textarea class="textfun" id="t1tag-ta"></textarea>
+            <br>
+            <label>Player 1: </label>
+            <span id="flagp1"></span>
+            <textarea class="textfun" id="t1p1-ta"></textarea>
+            <br>
+            <label>Player 2: </label>
+            <span id="flagp2"></span>
+            <textarea class="textfun" id="t1p2-ta"></textarea>
+            <br>
+            <label>Player 3: </label>
+            <span id="flagp3"></span>
+            <textarea class="textfun" id="t1p3-ta"></textarea>
+            <br>
+            <label>Coach 1</label>
+            <input type="checkbox" name="Coach 1" id="coach1">
+            <span id="flagc1"></span>
+            <textarea class="textfun" id="t1c1-ta"></textarea>
+            <br>
+            <label>Coach 2</label>
+            <input type="checkbox" name="Coach 2" id="coach2">
+            <span id="flagc2"></span>
+            <textarea class="textfun" id="t1c2-ta"></textarea>
+            <br>
+            <label>Coach 3</label>
+            <input type="checkbox" name="Coach 3" id="coach3">
+            <span id="flagc3"></span>
+            <textarea class="textfun" id="t1c3-ta"></textarea>
+            <br>
+            <br>
+            <button id="update">UPDATE IT!</button>
+            <br>
+            <button onclick="myFunction3()">COPY THE URL MF</button>
+            <button onclick="FUCKFUCKPUSSYPUSSYSHITSHITSHIT()">IMPORT BRACKET</button>
+        </fun>
+        <fun>
+            <textarea style="width: 38%;" name="" id="urltext"></textarea>
+            <textarea style="width: 58%;" name="" id="importtext"></textarea>
+        </fun>
+    </div>
+    <script>
+        // Function to send a message to the opener window
+        function sendMessageToOpener(action, value) {
+            if (window.opener) {
+                const message = { action: action, value: value };
+                window.opener.postMessage(message, window.location.origin);
+            }
+        }
+        let envelope;
+        let frontflip;
+        let flags = [
+            {
+                "image": "assets/img/flags/36px-African_union_hd.png",
+                "text": "Africa (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Ar_hd.png",
+                "text": "Argentina"
+            },
+            {
+                "image": "assets/img/flags/Asia_flag_hd.png",
+                "text": "Asia (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Au_hd.png",
+                "text": "Australia"
+            },
+            {
+                "image": "assets/img/flags/36px-At_hd.png",
+                "text": "Austria"
+            },
+            {
+                "image": "assets/img/flags/36px-Be_hd.png",
+                "text": "Belgium"
+            },
+            {
+                "image": "assets/img/flags/36px-Br_hd.png",
+                "text": "Brazil"
+            },
+            {
+                "image": "assets/img/flags/36px-Ca_hd.png",
+                "text": "Canada"
+            },
+            {
+                "image": "assets/img/flags/36px-Cl_hd.png",
+                "text": "Chile"
+            },
+            {
+                "image": "assets/img/flags/36px-Dk_hd.png",
+                "text": "Denmark"
+            },
+            {
+                "image": "assets/img/flags/36px-Gb-eng_hd.png",
+                "text": "England"
+            },
+            {
+                "image": "assets/img/flags/36px-Eu_hd.png",
+                "text": "EU (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Fr_hd.png",
+                "text": "France"
+            },
+            {
+                "image": "assets/img/flags/36px-De_hd.png",
+                "text": "Germany"
+            },
+            {
+                "image": "assets/img/flags/36px-Ie_hd.png",
+                "text": "Ireland"
+            },
+            {
+                "image": "assets/img/flags/36px-It_hd.png",
+                "text": "Italy"
+            },
+            {
+                "image": "assets/img/flags/36px-Jp_hd.png",
+                "text": "Japan"
+            },
+            {
+                "image": "assets/img/flags/36px-Kw_hd.png",
+                "text": "Kuwait"
+            },
+            {
+                "image": "assets/img/flags/36px-Lt_hd.png",
+                "text": "Lithuenia"
+            },
+            {
+                "image": "assets/img/flags/36px-My_hd.png",
+                "text": "Malaysia"
+            },
+            {
+                "image": "assets/img/flags/36px-Arab_league_hd.png",
+                "text": "MENA (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Ma_hd.png",
+                "text": "Morocoo"
+            },
+            {
+                "image": "assets/img/flags/36px-UsCa_hd.png",
+                "text": "NA (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Nl_hd.png",
+                "text": "Netherlands"
+            },
+            {
+                "image": "assets/img/flags/36px-Nz_hd.png",
+                "text": "New Zealand"
+            },
+            {
+                "image": "assets/img/flags/36px-Gb-nir_hd.png",
+                "text": "Northern Ireland"
+            },
+            {
+                "image": "assets/img/flags/36px-No_hd.png",
+                "text": "Norway"
+            },
+            {
+                "image": "assets/img/flags/36px-Anz_hd.png",
+                "text": "OCE (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Pl_hd.png",
+                "text": "Poland"
+            },
+            {
+                "image": "assets/img/flags/36px-Pt_hd.png",
+                "text": "Portugal"
+            },
+            {
+                "image": "assets/img/flags/36px-Unasur_hd.png",
+                "text": "SAM (Region)"
+            },
+            {
+                "image": "assets/img/flags/36px-Sa_hd.png",
+                "text": "Saudi Arabia"
+            },
+            {
+                "image": "assets/img/flags/36px-Gb-sct_hd.png",
+                "text": "Scotland"
+            },
+            {
+                "image": "assets/img/flags/36px-Sg_hd.png",
+                "text": "Singapore"
+            },
+            {
+                "image": "assets/img/flags/36px-Za_hd.png",
+                "text": "South Africa"
+            },
+            {
+                "image": "assets/img/flags/36px-Es_hd.png",
+                "text": "Spain"
+            },
+            {
+                "image": "assets/img/flags/36px-Se_hd.png",
+                "text": "Sweden"
+            },
+            {
+                "image": "assets/img/flags/36px-Tr_hd.png",
+                "text": "Turkey"
+            },
+            {
+                "image": "assets/img/flags/36px-Us_hd.png",
+                "text": "USA"
+            },
+            {
+                "image": "assets/img/flags/36px-Gb-wls_hd.png",
+                "text": "Wales"
+            },
+            {
+                "image": "assets/img/flags/36px-Ye_hd.png",
+                "text": "Yemen"
+            }
+        ]
+        let query = new URLSearchParams(window.location.search);
+        let team1 = document.getElementById("team1");
+        let team2 = document.getElementById("team2");
+        let t1cont = document.getElementById("t1cont");
+        let t1name = document.getElementById("t1name");
+        let t1logo = document.getElementById("t1logo");
+        let t1p1 = document.getElementById("t1p1");
+        let t1p2 = document.getElementById("t1p2");
+        let t1p3 = document.getElementById("t1p3");
+        let t1c1 = document.getElementById("t1c1");
+        let t1c2 = document.getElementById("t1c2");
+        let t1c3 = document.getElementById("t1c3");
+        let t1p1flag = document.getElementById("t1p1-flag");
+        let t1p2flag = document.getElementById("t1p2-flag");
+        let t1p3flag = document.getElementById("t1p3-flag");
+        let t1c1flag = document.getElementById("t1c1-flag");
+        let t1c2flag = document.getElementById("t1c2-flag");
+        let t1c3flag = document.getElementById("t1c3-flag");
+        let t1tag = document.getElementById("t1tag");
+        function menu() {
+            fetch(`assets/json/logo.json`)
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (data) {
+                    rg(data);
+                })
+                .catch(function (err) {
+                    console.log("error: " + err);
+                });
+            /**
+             * This is the rg function
+             * @description - It takes the data from gs.json and helps send the user to the randomly chosen game.
+             * @param {*} data - the data that is being passed through.
+             */
+            function rg(data) {
+                console.log(data);
+                MsDropdown.make("#logo", {
+                    byJson: {
+                        data: data, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flag-name", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flagp1", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flagp2", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flagp3", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flagc1", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flagc2", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+                MsDropdown.make("#flagc3", {
+                    byJson: {
+                        data: flags, selectedIndex: 0, width: 200
+                    },
+                    childHeight: 115,
+                    enableCheckbox: false
+                });
+            }
+            $("#logo").click(function () {
+                document.getElementById('teamname').value = $('#logo option:selected').text();
+            });
+            $("#update").click(function () {
+                envelope = `${$('#logo option:selected').data('image')}|${$('#flag-name option:selected').data('image')}|${document.getElementById('teamname').value}|${document.getElementById('t1p1-ta').value}|${$('#flagp1 option:selected').data('image')}|${document.getElementById('t1p2-ta').value}|${$('#flagp2 option:selected').data('image')}|${document.getElementById("t1p3-ta").value}|${$('#flagp3 option:selected').data('image')}|${document.getElementById('t1tag-ta').value}|${document.getElementById("coach1").checked}|${$('#flagc1 option:selected').data('image')}|${document.getElementById('t1c1-ta').value}|${document.getElementById("coach2").checked}|${$('#flagc2 option:selected').data('image')}|${document.getElementById('t1c2-ta').value}|${document.getElementById("coach3").checked}|${$('#flagc3 option:selected').data('image')}|${document.getElementById('t1c3-ta').value}`;
+                frontflip = `${document.getElementById("logo").msDropdown.selectedIndex}|${document.getElementById("flag-name").msDropdown.selectedIndex}|${document.getElementById("teamname").value}|${document.getElementById("flagp1").msDropdown.selectedIndex}|${document.getElementById("t1p1-ta").value}|${document.getElementById("flagp2").msDropdown.selectedIndex}|${document.getElementById("t1p2-ta").value}|${document.getElementById("flagp3").msDropdown.selectedIndex}|${document.getElementById("t1p3-ta").value}|${document.getElementById("coach1").checked}|${document.getElementById("t1c1-ta").value}|${document.getElementById("flagc1").msDropdown.selectedIndex}|${document.getElementById("coach2").checked}|${document.getElementById("t1c2-ta").value}|${document.getElementById("flagc2").msDropdown.selectedIndex}|${document.getElementById("coach3").checked}|${document.getElementById("t1c3-ta").value}|${document.getElementById("flagc3").msDropdown.selectedIndex}|${document.getElementById("t1tag-ta").value}`
+                document.getElementById("importtext").innerText = btoa(frontflip);
+                sendMessageToOpener("changeValues", envelope);
+            });
+        }
+
+    </script>
+    <script src="assets/js/dd.min.js"></script>
+</body>
+
+</html>

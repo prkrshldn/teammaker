@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/loadmaker.css">
+    <link rel="stylesheet" href="assets/css/maker.css">
+    <link rel="stylesheet" href="assets/css/dd.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;family=Droid+Sans+Mono&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap">
+</head>
+
+<body>
+    <div class="oneteam">
+        <div>
+            <div data-toggle-area="1" class="teamcard toggle-area toggle-area-1">
+                <center style="font-weight:bold"><span class="flag"><a href="/rocketleague/Category:North_America"
+                            title="North America"><img alt="North America" src="assets/img/flags/36px-UsCa_hd.png"
+                                decoding="async" width="36" height="24" id="t1cont"
+                                srcset="assets/img/flags/54px-UsCa_hd.png 1.5x, assets/img/flags/72px-UsCa_hd.png 2x"></a></span>&nbsp;<a
+                        href="/rocketleague/IBUYPOWER" title="IBUYPOWER" id="t1name">iBUYPOWER</a></center>
+                <div class="teamcard-inner">
+                    <table class="wikitable wikitable-bordered list" data-toggle-area-content="1" style="height:158px">
+                        <tbody id="team1">
+                            <tr>
+                                <th>1</th>
+                                <td><span class="flag"><a href="/rocketleague/Category:United_States"
+                                            title="United States"><img alt="United States" id="t1p1-flag"
+                                                src="assets/img/flags/36px-Us_hd.png" decoding="async" width="36"
+                                                height="24"
+                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                        href="/rocketleague/Kronovi" title="Kronovi" id="t1p1">Kronovi</a></td>
+                            </tr>
+                            <tr>
+                                <th>2</th>
+                                <td><span class="flag"><a href="/rocketleague/Category:Canada" title="Canada"><img
+                                                alt="Canada" id="t1p2-flag" src="assets/img/flags/36px-Ca_hd.png"
+                                                decoding="async" width="36" height="24"
+                                                srcset="assets/img/flags/54px-Ca_hd.png 1.5x, assets/img/flags/72px-Ca_hd.png 2x"></a></span>&nbsp;<a
+                                        href="/rocketleague/Lachinio" title="Lachinio" id="t1p2">Lachinio</a></td>
+                            </tr>
+                            <tr>
+                                <th>3</th>
+                                <td><span class="flag"><a href="/rocketleague/Category:United_States"
+                                            title="United States"><img alt="United States" id="t1p3-flag"
+                                                src="assets/img/flags/36px-Us_hd.png" decoding="async" width="36"
+                                                height="24"
+                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                        href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1p3">0ver Zer0</a></td>
+                            </tr>
+                            <tr id="coach1-tr"></tr>
+                            <tr id="coach2-tr"></tr>
+                            <tr id="coach3-tr"></tr>
+                        </tbody>
+                    </table>
+                    <table class="wikitable wikitable-bordered logo">
+                        <tbody>
+                            <tr style="height:157px;">
+                                <td class=""><span class="logo-lightmode" style="display:none">
+                                        <div class="center">
+                                            <div class="floatnone"><img alt=""
+                                                    src="/commons/images/thumb/7/7f/IBUYPOWER_lightmode.png/190px-IBUYPOWER_lightmode.png"
+                                                    decoding="async" width="190" height="110"
+                                                    srcset="/commons/images/thumb/7/7f/IBUYPOWER_lightmode.png/285px-IBUYPOWER_lightmode.png 1.5x, /commons/images/thumb/7/7f/IBUYPOWER_lightmode.png/380px-IBUYPOWER_lightmode.png 2x">
+                                            </div>
+                                        </div>
+                                    </span><span class="logo-darkmode">
+                                        <div class="center">
+                                            <div class="floatnone"><img alt="" id="t1logo"
+                                                    src="assets/img/teams/285px-IBUYPOWER_darkmode.png" decoding="async"
+                                                    width="190" height="110"
+                                                    srcset="assets/img/teams/285px-IBUYPOWER_darkmode.png 1.5x, assets/img/teams/380px-IBUYPOWER_darkmode.png 2x">
+                                            </div>
+                                        </div>
+                                    </span></td>
+                            </tr>
+                            <tr>
+                                <td class="teamcard-qualifier" colspan="2"><a
+                                        href="/rocketleague/Rocket_League_Championship_Series/2025/Rankings/Europe/Birmingham_Major"
+                                        title="Rocket League Championship Series/2025/Rankings/Europe/Birmingham Major"
+                                        id="t1tag">RLCS
+                                        Season 1 World Champions</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        let team1 = document.getElementById("team1");
+        let t1cont = document.getElementById("t1cont");
+        let t1name = document.getElementById("t1name");
+        let t1logo = document.getElementById("t1logo");
+        let t1p1 = document.getElementById("t1p1");
+        let t1p2 = document.getElementById("t1p2");
+        let t1p3 = document.getElementById("t1p3");
+        let t1c1 = document.getElementById("t1c1");
+        let t1c2 = document.getElementById("t1c2");
+        let t1c3 = document.getElementById("t1c3");
+        let t1p1flag = document.getElementById("t1p1-flag");
+        let t1p2flag = document.getElementById("t1p2-flag");
+        let t1p3flag = document.getElementById("t1p3-flag");
+        let t1c1flag = document.getElementById("t1c1-flag");
+        let t1c2flag = document.getElementById("t1c2-flag");
+        let t1c3flag = document.getElementById("t1c3-flag");
+        let t1tag = document.getElementById("t1tag");
+        // Event listener for messages from the remote window
+        window.addEventListener('message', (event) => {
+            // Check if the message is from the correct origin for security
+            if (event.origin !== window.location.origin) {
+                return;
+            }
+
+            const data = event.data;
+
+            if (data.action === 'changeValues') {
+                console.log(data.value);
+                const [e_logo, e_fn, e_tn, e_t1p1, e_f1p1, e_t1p2, e_f1p2, e_t1p3, e_f1p3, e_t1tag, e_c1, e_f1c1, e_t1c1, e_c2, e_f1c2, e_t1c2, e_c3, e_f1c3, e_t1c3] = data.value.split("|");
+                t1logo.src = e_logo;
+                t1cont.src = e_fn;
+                t1name.innerHTML = e_tn;
+                t1p1.innerHTML = e_t1p1;
+                t1p1flag.src = e_f1p1;
+                t1p2.innerHTML = e_t1p2;
+                t1p2flag.src = e_f1p2;
+                t1p3.innerHTML = e_t1p3;
+                t1p3flag.src = e_f1p3;
+                t1tag.innerHTML = e_t1tag;
+
+                if (e_c1 == true) {
+                    document.getElementById("coach1-tr").innerHTML = `
+                                <th>C</th>
+                                <td><span class="flag"><a href="/rocketleague/Category:United_States"
+                                            title="United States"><img alt="United States" id="t1c1-flag"
+                                                src="${e_f1c1}" decoding="async" width="36"
+                                                height="24"
+                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                        href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1c1">${e_t1c1}</a></td>
+                    `
+                } else {
+                    document.getElementById("coach1-tr").innerHTML = "";
+                }
+                if (e_c2 == true) {
+                    document.getElementById("coach2-tr").innerHTML = `
+                                <th>C</th>
+                                <td><span class="flag"><a href="/rocketleague/Category:United_States"
+                                            title="United States"><img alt="United States" id="t1c1-flag"
+                                                src="${e_f1c2}" decoding="async" width="36"
+                                                height="24"
+                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                        href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1c2">${e_t1c2}</a></td>
+                    `
+                } else {
+                    document.getElementById("coach2-tr").innerHTML = "";
+                }
+                if (e_c3 == true) {
+                    document.getElementById("coach3-tr").innerHTML = `
+                                <th>C</th>
+                                <td><span class="flag"><a href="/rocketleague/Category:United_States"
+                                            title="United States"><img alt="United States" id="t1c1-flag"
+                                                src="${e_f1c3}" decoding="async" width="36"
+                                                height="24"
+                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                        href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1c3">${e_t1c3}</a></td>
+                    `
+                } else {
+                    document.getElementById("coach3-tr").innerHTML = "";
+                }
+            }
+        });
+
+        // Listen for keydown events on the entire window
+        window.addEventListener("keydown", function (event) {
+            if (event.key === "`") { // Check if the pressed key is 'a'
+                openRemote(); // Call your function
+            }
+        });
+        // Function to open the remote control window
+        function openRemote() {
+            window.open('remote.html', 'remoteControl', 'width=800,height=800');
+        }
+    </script>
+    <script src="assets/js/dd.min.js"></script>
+</body>
+
+</html>

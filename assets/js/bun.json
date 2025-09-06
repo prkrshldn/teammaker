@@ -1,0 +1,152 @@
+[
+    {
+        "type": "ubqf1-up",
+        "name": "Karmine Corp",
+        "img": "Karmine_Corp",
+        "score": "3"
+    },
+    {
+        "type": "ubqf1-dn",
+        "name": "Sick",
+        "img": "Sick",
+        "score": "0"
+    },
+    {
+        "type": "ubqf2-up",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "3"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Geekay Esports",
+        "img": "Geekay_Esports_2023",
+        "score": "1"
+    },
+    {
+        "type": "ubqf3-up",
+        "name": "Ninjas in Pyjamas",
+        "img": "Ninjas_in_Pyjamas_2021",
+        "score": "3"
+    },
+    {
+        "type": "ubqf3-dn",
+        "name": "Synergy",
+        "img": "Synergy_2025",
+        "score": "1"
+    },
+    {
+        "type": "ubqf4-up",
+        "name": "Gentle Mates Alpine",
+        "img": "Gentle_Mates_Alpine_2024",
+        "score": "2"
+    },
+    {
+        "type": "ubqf4-dn",
+        "name": "Ascend",
+        "img": "Ascend_2025",
+        "score": "3"
+    },
+    {
+        "type": "lbqf1-up",
+        "name": "Sick",
+        "img": "Sick",
+        "score": "0"
+    },
+    {
+        "type": "lbqf1-dn",
+        "name": "Geekay Esports",
+        "img": "Geekay_Esports_2023",
+        "score": "3"
+    },
+    {
+        "type": "lbqf2-up",
+        "name": "Synergy",
+        "img": "Synergy_2025",
+        "score": "3"
+    },
+    {
+        "type": "lbqf2-dn",
+        "name": "Gentle Mates Alpine",
+        "img": "Gentle_Mates_Alpine_2024",
+        "score": "2"
+    },
+    {
+        "type": "ubsf1-up",
+        "name": "Karmine Corp",
+        "img": "Karmine_Corp",
+        "score": "3"
+    },
+    {
+        "type": "ubsf1-dn",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "2"
+    },
+    {
+        "type": "ubsf2-up",
+        "name": "Ninjas in Pyjamas",
+        "img": "Ninjas_in_Pyjamas_2021",
+        "score": "3"
+    },
+    {
+        "type": "ubsf2-dn",
+        "name": "Ascend",
+        "img": "Ascend_2025",
+        "score": "1"
+    },
+    {
+        "type": "lbsf1-up",
+        "name": "Ascend",
+        "img": "Ascend_2025",
+        "score": "2"
+    },
+    {
+        "type": "lbsf1-dn",
+        "name": "Geekay Esports",
+        "img": "Geekay_Esports_2023",
+        "score": "3"
+    },
+    {
+        "type": "lbsf2-up",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "3"
+    },
+    {
+        "type": "lbsf2-dn",
+        "name": "Synergy",
+        "img": "Synergy_2025",
+        "score": "0"
+    },
+    {
+        "type": "ubf-up",
+        "name": "Karmine Corp",
+        "img": "Karmine_Corp",
+        "score": "3"
+    },
+    {
+        "type": "ubf-dn",
+        "name": "Ninjas in Pyjamas",
+        "img": "Ninjas_in_Pyjamas_2021",
+        "score": "0"
+    },
+    {
+        "type": "lbf-up",
+        "name": "Geekay Esports",
+        "img": "Geekay_Esports_2023",
+        "score": "3"
+    },
+    {
+        "type": "lbf-dn",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "1"
+    },
+    {
+        "type": "none",
+        "name": "",
+        "img": "none",
+        "score": ""
+    }
+]

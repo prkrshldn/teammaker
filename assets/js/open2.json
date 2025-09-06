@@ -1,0 +1,116 @@
+[
+    {
+        "type": "ubqf1-up",
+        "name": "Ninjas in Pyjamas",
+        "img": "Ninjas_in_Pyjamas_2021",
+        "score": "2"
+    },
+    {
+        "type": "ubqf1-dn",
+        "name": "Dignitas",
+        "img": "Dignitas_2021",
+        "score": "4"
+    },
+    {
+        "type": "ubqf2-up",
+        "name": "Karmine Corp",
+        "img": "Karmine_Corp",
+        "score": "4"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "3"
+    },
+    {
+        "type": "lbr1-up",
+        "name": "Geekay Esports",
+        "img": "Geekay_Esports_2023",
+        "score": "2"
+    },
+    {
+        "type": "lbr1-dn",
+        "name": "100%",
+        "img": "100Percent",
+        "score": "4"
+    },
+    {
+        "type": "lbr12-up",
+        "name": "Ascend",
+        "img": "Ascend_2025",
+        "score": "3"
+    },
+    {
+        "type": "lbr12-dn",
+        "name": "Startpoint",
+        "img": "Startpoint_2025_logo",
+        "score": "4"
+    },
+    {
+        "type": "lbqf1-up",
+        "name": "Ninjas in Pyjamas",
+        "img": "Ninjas_in_Pyjamas_2021",
+        "score": "4"
+    },
+    {
+        "type": "ubqf2-up",
+        "name": "100%",
+        "img": "100Percent",
+        "score": "2"
+    },
+    {
+        "type": "lbqf1-up",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "4"
+    },
+    {
+        "type": "ubqf2-up",
+        "name": "Startpoint",
+        "img": "Startpoint_2025_logo",
+        "score": "2"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Karmine Corp",
+        "img": "Karmine_Corp",
+        "score": "4"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Ninjas in Pyjamas",
+        "img": "Ninjas_in_Pyjamas_2021",
+        "score": "0"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Dignitas",
+        "img": "Dignitas_2021",
+        "score": "4"
+    },
+    {
+        "type": "ubqf1-dn",
+        "name": "Team Vitality",
+        "img": "Team_Vitality_2023",
+        "score": "2"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Karmine Corp",
+        "img": "Karmine_Corp",
+        "score": "4"
+    },
+    {
+        "type": "ubqf2-dn",
+        "name": "Dignitas",
+        "img": "Dignitas_2021",
+        "score": "0"
+    },
+    {
+        "type": "none",
+        "name": "",
+        "img": "none",
+        "score": ""
+    }
+]

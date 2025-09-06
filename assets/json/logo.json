@@ -1,0 +1,1712 @@
+[
+    {
+        "image": "../assets/img/teams/00_Nation.png",
+        "value": "00_Nation.png",
+        "text": "00 Nation"
+    },
+    {
+        "image": "../assets/img/teams/01_Esports.png",
+        "value": "01_Esports.png",
+        "text": "01 Esports"
+    },
+    {
+        "image": "../assets/img/teams/100Percent.png",
+        "value": "100Percent.png",
+        "text": "100Percent"
+    },
+    {
+        "image": "../assets/img/teams/12_Bricks.png",
+        "value": "12_Bricks.png",
+        "text": "12 Bricks"
+    },
+    {
+        "image": "../assets/img/teams/1NE_eSports_2020.png",
+        "value": "1NE_eSports_2020.png",
+        "text": "1NE eSports"
+    },
+    {
+        "image": "../assets/img/teams/72PC.png",
+        "value": "72PC.png",
+        "text": "72PC"
+    },
+    {
+        "image": "../assets/img/teams/77Blocks_2024.png",
+        "value": "77Blocks_2024.png",
+        "text": "77Blocks"
+    },
+    {
+        "image": "../assets/img/teams/9Lives.png",
+        "value": "9Lives.png",
+        "text": "9Lives"
+    },
+    {
+        "image": "../assets/img/teams/AIPX_Gaming.png",
+        "value": "AIPX_Gaming.png",
+        "text": "AIPX Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Akrew.png",
+        "value": "Akrew.png",
+        "text": "Akrew"
+    },
+    {
+        "image": "../assets/img/teams/Al-Qadsiah_2024.png",
+        "value": "Al-Qadsiah_2024.png",
+        "text": "Al-Qadsiah"
+    },
+    {
+        "image": "../assets/img/teams/Alke.png",
+        "value": "Alke.png",
+        "text": "Alke"
+    },
+    {
+        "image": "../assets/img/teams/AllMid.png",
+        "value": "AllMid.png",
+        "text": "AllMid"
+    },
+    {
+        "image": "../assets/img/teams/Almost_Nuts.png",
+        "value": "Almost_Nuts.png",
+        "text": "Almost Nuts"
+    },
+    {
+        "image": "../assets/img/teams/ANKAA_2021.png",
+        "value": "ANKAA_2021.png",
+        "text": "ANKAA"
+    },
+    {
+        "image": "../assets/img/teams/ARG_2022_2.png",
+        "value": "ARG_2022_2.png",
+        "text": "ARG"
+    },
+    {
+        "image": "../assets/img/teams/AS_Monaco.png",
+        "value": "AS_Monaco.png",
+        "text": "AS Monaco"
+    },
+    {
+        "image": "../assets/img/teams/Ascend_2025.png",
+        "value": "Ascend_2025.png",
+        "text": "Ascend"
+    },
+    {
+        "image": "../assets/img/teams/Astronic_Esports_2024.png",
+        "value": "Astronic_Esports_2024.png",
+        "text": "Astronic Esports"
+    },
+    {
+        "image": "../assets/img/teams/Atelier.png",
+        "value": "Atelier.png",
+        "text": "Atelier"
+    },
+    {
+        "image": "../assets/img/teams/ATK_2020.png",
+        "value": "ATK_2020.png",
+        "text": "ATK"
+    },
+    {
+        "image": "../assets/img/teams/Atlantide_Wave_2021.png",
+        "value": "Atlantide_Wave_2021.png",
+        "text": "Atlantide Wave"
+    },
+    {
+        "image": "../assets/img/teams/Attack_of_the_Invisible_Ninja.png",
+        "value": "Attack_of_the_Invisible_Ninja.png",
+        "text": "Attack of the Invisible Ninja"
+    },
+    {
+        "image": "../assets/img/teams/Atypical_2020.png",
+        "value": "Atypical_2020.png",
+        "text": "Atypical"
+    },
+    {
+        "image": "../assets/img/teams/Austrian_Force_willhaben_2022.png",
+        "value": "Austrian_Force_willhaben_2022.png",
+        "text": "Austrian Force willhaben"
+    },
+    {
+        "image": "../assets/img/teams/AVANT_2019.png",
+        "value": "AVANT_2019.png",
+        "text": "AVANT"
+    },
+    {
+        "image": "../assets/img/teams/Avidity_2020.png",
+        "value": "Avidity_2020.png",
+        "text": "Avidity"
+    },
+    {
+        "image": "../assets/img/teams/AW3_Esports_Fall_2023.png",
+        "value": "AW3_Esports_Fall_2023.png",
+        "text": "AW3 Esports Fall"
+    },
+    {
+        "image": "../assets/img/teams/AWAWA_2025.png",
+        "value": "AWAWA_2025.png",
+        "text": "AWAWA"
+    },
+    {
+        "image": "../assets/img/teams/Baguette_Squad.png",
+        "value": "Baguette_Squad.png",
+        "text": "Baguette Squad"
+    },
+    {
+        "image": "../assets/img/teams/Bandits_ESC_2021.png",
+        "value": "Bandits_ESC_2021.png",
+        "text": "Bandits ESC"
+    },
+    {
+        "image": "../assets/img/teams/Belligol.png",
+        "value": "Belligol.png",
+        "text": "Belligol"
+    },
+    {
+        "image": "../assets/img/teams/Birds_and_the_Beez.png",
+        "value": "Birds_and_the_Beez.png",
+        "text": "Birds and the Beez"
+    },
+    {
+        "image": "../assets/img/teams/Blazar_oct_2023.png",
+        "value": "Blazar_oct_2023.png",
+        "text": "Blazar oct"
+    },
+    {
+        "image": "../assets/img/teams/Boulevard.png",
+        "value": "Boulevard.png",
+        "text": "Boulevard"
+    },
+    {
+        "image": "../assets/img/teams/Bravado_Gaming_2021.png",
+        "value": "Bravado_Gaming_2021.png",
+        "text": "Bravado Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Bread.png",
+        "value": "Bread.png",
+        "text": "Bread"
+    },
+    {
+        "image": "../assets/img/teams/British_Esports_icon.png",
+        "value": "British_Esports_icon.png",
+        "text": "British Esports icon"
+    },
+    {
+        "image": "../assets/img/teams/BS_2BCOMPETITION.png",
+        "value": "BS_2BCOMPETITION.png",
+        "text": "BSBCOMPETITION"
+    },
+    {
+        "image": "../assets/img/teams/Buckos.png",
+        "value": "Buckos.png",
+        "text": "Buckos"
+    },
+    {
+        "image": "../assets/img/teams/Budapest_Five.png",
+        "value": "Budapest_Five.png",
+        "text": "Budapest Five"
+    },
+    {
+        "image": "../assets/img/teams/Bull_Send.png",
+        "value": "Bull_Send.png",
+        "text": "Bull Send"
+    },
+    {
+        "image": "../assets/img/teams/CALIENTE.png",
+        "value": "CALIENTE.png",
+        "text": "CALIENTE"
+    },
+    {
+        "image": "../assets/img/teams/Canyons.png",
+        "value": "Canyons.png",
+        "text": "Canyons"
+    },
+    {
+        "image": "../assets/img/teams/CH_Logo_2020.png",
+        "value": "CH_Logo_2020.png",
+        "text": "CH Logo"
+    },
+    {
+        "image": "../assets/img/teams/Chaos_Esports_Club_logo_2019_acid_std.png",
+        "value": "Chaos_Esports_Club_logo_2019_acid_std.png",
+        "text": "Chaos Esports Club logo acid std"
+    },
+    {
+        "image": "../assets/img/teams/Chiefs_Esports_Club_2024.png",
+        "value": "Chiefs_Esports_Club_2024.png",
+        "text": "Chiefs Esports Club"
+    },
+    {
+        "image": "../assets/img/teams/Chromax_2021.png",
+        "value": "Chromax_2021.png",
+        "text": "Chromax"
+    },
+    {
+        "image": "../assets/img/teams/Cloud_eSport.png",
+        "value": "Cloud_eSport.png",
+        "text": "Cloud eSport"
+    },
+    {
+        "image": "../assets/img/teams/Cloud9_2023.png",
+        "value": "Cloud9_2023.png",
+        "text": "Cloud9"
+    },
+    {
+        "image": "../assets/img/teams/Coconutters_2020.png",
+        "value": "Coconutters_2020.png",
+        "text": "Coconutters"
+    },
+    {
+        "image": "../assets/img/teams/Cola_2023.png",
+        "value": "Cola_2023.png",
+        "text": "Cola"
+    },
+    {
+        "image": "../assets/img/teams/Compadreslogo_std.png",
+        "value": "Compadreslogo_std.png",
+        "text": "Compadreslogo std"
+    },
+    {
+        "image": "../assets/img/teams/Complexity_2025.png",
+        "value": "Complexity_2025.png",
+        "text": "Complexity"
+    },
+    {
+        "image": "../assets/img/teams/Corinthians.png",
+        "value": "Corinthians.png",
+        "text": "Corinthians"
+    },
+    {
+        "image": "../assets/img/teams/CosmiCo_Esports.png",
+        "value": "CosmiCo_Esports.png",
+        "text": "CosmiCo Esports"
+    },
+    {
+        "image": "../assets/img/teams/Counter_Logic_Gaming.png",
+        "value": "Counter_Logic_Gaming.png",
+        "text": "Counter Logic Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Crimson_Wings.png",
+        "value": "Crimson_Wings.png",
+        "text": "Crimson Wings"
+    },
+    {
+        "image": "../assets/img/teams/CRL_2020_icon.png",
+        "value": "CRL_2020_icon.png",
+        "text": "CRL icon"
+    },
+    {
+        "image": "../assets/img/teams/Dark_Rift_Esports_2022_July.png",
+        "value": "Dark_Rift_Esports_2022_July.png",
+        "text": "Dark Rift Esports July"
+    },
+    {
+        "image": "../assets/img/teams/Deleted_XD_2024_2.png",
+        "value": "Deleted_XD_2024_2.png",
+        "text": "Deleted XD"
+    },
+    {
+        "image": "../assets/img/teams/Denial_Esports_2013.png",
+        "value": "Denial_Esports_2013.png",
+        "text": "Denial Esports"
+    },
+    {
+        "image": "../assets/img/teams/DeToNator_2022.png",
+        "value": "DeToNator_2022.png",
+        "text": "DeToNator"
+    },
+    {
+        "image": "../assets/img/teams/Dignitas_2021.png",
+        "value": "Dignitas_2021.png",
+        "text": "Dignitas"
+    },
+    {
+        "image": "../assets/img/teams/Dire_Wolves_2020.png",
+        "value": "Dire_Wolves_2020.png",
+        "text": "Dire Wolves"
+    },
+    {
+        "image": "../assets/img/teams/Discombobulators.png",
+        "value": "Discombobulators.png",
+        "text": "Discombobulators"
+    },
+    {
+        "image": "../assets/img/teams/Dream_Conspiracy.png",
+        "value": "Dream_Conspiracy.png",
+        "text": "Dream Conspiracy"
+    },
+    {
+        "image": "../assets/img/teams/Dumb_Luck.png",
+        "value": "Dumb_Luck.png",
+        "text": "Dumb Luck"
+    },
+    {
+        "image": "../assets/img/teams/Dunno_Chief.png",
+        "value": "Dunno_Chief.png",
+        "text": "Dunno Chief"
+    },
+    {
+        "image": "../assets/img/teams/Edelweiss_Esports.png",
+        "value": "Edelweiss_Esports.png",
+        "text": "Edelweiss Esports"
+    },
+    {
+        "image": "../assets/img/teams/Elevate_2020.png",
+        "value": "Elevate_2020.png",
+        "text": "Elevate"
+    },
+    {
+        "image": "../assets/img/teams/Ellevens_Esports.png",
+        "value": "Ellevens_Esports.png",
+        "text": "Ellevens Esports"
+    },
+    {
+        "image": "../assets/img/teams/Empty_June_2021.png",
+        "value": "Empty_June_2021.png",
+        "text": "Empty June"
+    },
+    {
+        "image": "../assets/img/teams/Empty_Space.png",
+        "value": "Empty_Space.png",
+        "text": "Empty Space"
+    },
+    {
+        "image": "../assets/img/teams/EndGame_Esports.png",
+        "value": "EndGame_Esports.png",
+        "text": "EndGame Esports"
+    },
+    {
+        "image": "../assets/img/teams/Endpoint_2020.png",
+        "value": "Endpoint_2020.png",
+        "text": "Endpoint"
+    },
+    {
+        "image": "../assets/img/teams/Epsilon_Esports.png",
+        "value": "Epsilon_Esports.png",
+        "text": "Epsilon Esports"
+    },
+    {
+        "image": "../assets/img/teams/ERa_Eternity_2017.png",
+        "value": "ERa_Eternity_2017.png",
+        "text": "ERa Eternity"
+    },
+    {
+        "image": "../assets/img/teams/Erased_2021.png",
+        "value": "Erased_2021.png",
+        "text": "Erased"
+    },
+    {
+        "image": "../assets/img/teams/Erodium_2019.png",
+        "value": "Erodium_2019.png",
+        "text": "Erodium"
+    },
+    {
+        "image": "../assets/img/teams/ESPADA.png",
+        "value": "ESPADA.png",
+        "text": "ESPADA"
+    },
+    {
+        "image": "../assets/img/teams/Esport_BERG_2020.png",
+        "value": "Esport_BERG_2020.png",
+        "text": "Esport BERG"
+    },
+    {
+        "image": "../assets/img/teams/EUnited_2020.png",
+        "value": "EUnited_2020.png",
+        "text": "EUnited"
+    },
+    {
+        "image": "../assets/img/teams/Evil_Geniuses_2020.png",
+        "value": "Evil_Geniuses_2020.png",
+        "text": "Evil Geniuses"
+    },
+    {
+        "image": "../assets/img/teams/Excel_Esports_2020.png",
+        "value": "Excel_Esports_2020.png",
+        "text": "Excel Esports"
+    },
+    {
+        "image": "../assets/img/teams/Exeed_2024.png",
+        "value": "Exeed_2024.png",
+        "text": "Exeed"
+    },
+    {
+        "image": "../assets/img/teams/ExodusRL.png",
+        "value": "ExodusRL.png",
+        "text": "ExodusRL"
+    },
+    {
+        "image": "../assets/img/teams/F16_Esports_2024.png",
+        "value": "F16_Esports_2024.png",
+        "text": "F16 Esports"
+    },
+    {
+        "image": "../assets/img/teams/F4WD.png",
+        "value": "F4WD.png",
+        "text": "F4WD"
+    },
+    {
+        "image": "../assets/img/teams/Fadeaway_W_26R.png",
+        "value": "Fadeaway_W_26R.png",
+        "text": "Fadeaway WR"
+    },
+    {
+        "image": "../assets/img/teams/FarmVille.png",
+        "value": "FarmVille.png",
+        "text": "FarmVille"
+    },
+    {
+        "image": "../assets/img/teams/Fast_N_Furious.png",
+        "value": "Fast_N_Furious.png",
+        "text": "Fast N Furious"
+    },
+    {
+        "image": "../assets/img/teams/FaZe_Clan_November_2021.png",
+        "value": "FaZe_Clan_November_2021.png",
+        "text": "FaZe Clan November"
+    },
+    {
+        "image": "../assets/img/teams/FC_Barcelona.png",
+        "value": "FC_Barcelona.png",
+        "text": "FC Barcelona"
+    },
+    {
+        "image": "../assets/img/teams/Flashes_of_Brilliance.png",
+        "value": "Flashes_of_Brilliance.png",
+        "text": "Flashes of Brilliance"
+    },
+    {
+        "image": "../assets/img/teams/Flight_no_text.png",
+        "value": "Flight_no_text.png",
+        "text": "Flight no text"
+    },
+    {
+        "image": "../assets/img/teams/FlipSid3_Tactics.png",
+        "value": "FlipSid3_Tactics.png",
+        "text": "FlipSid3 Tactics"
+    },
+    {
+        "image": "../assets/img/teams/FlyQuest_2021.png",
+        "value": "FlyQuest_2021.png",
+        "text": "FlyQuest"
+    },
+    {
+        "image": "../assets/img/teams/Fnatic_2020.png",
+        "value": "Fnatic_2020.png",
+        "text": "Fnatic"
+    },
+    {
+        "image": "../assets/img/teams/French_class.png",
+        "value": "French_class.png",
+        "text": "French class"
+    },
+    {
+        "image": "../assets/img/teams/Frontline_logo.png",
+        "value": "Frontline_logo.png",
+        "text": "Frontline logo"
+    },
+    {
+        "image": "../assets/img/teams/FURIA_Esports.png",
+        "value": "FURIA_Esports.png",
+        "text": "FURIA Esports"
+    },
+    {
+        "image": "../assets/img/teams/FURY_2020.png",
+        "value": "FURY_2020.png",
+        "text": "FURY"
+    },
+    {
+        "image": "../assets/img/teams/Galaxy_Racer_alt.png",
+        "value": "Galaxy_Racer_alt.png",
+        "text": "Galaxy Racer alt"
+    },
+    {
+        "image": "../assets/img/teams/Gale_Force_eSports_2017.png",
+        "value": "Gale_Force_eSports_2017.png",
+        "text": "Gale Force eSports"
+    },
+    {
+        "image": "../assets/img/teams/Game_Fist.png",
+        "value": "Game_Fist.png",
+        "text": "Game Fist"
+    },
+    {
+        "image": "../assets/img/teams/Gamers_First.png",
+        "value": "Gamers_First.png",
+        "text": "Gamers First"
+    },
+    {
+        "image": "../assets/img/teams/Gamers_First_darkmode.png",
+        "value": "Gamers_First_darkmode.png",
+        "text": "Gamers First darkmode"
+    },
+    {
+        "image": "../assets/img/teams/Gaming_Gamers_New_2019.png",
+        "value": "Gaming_Gamers_New_2019.png",
+        "text": "Gaming Gamers New"
+    },
+    {
+        "image": "../assets/img/teams/Geekay_Esports_2023.png",
+        "value": "Geekay_Esports_2023.png",
+        "text": "Geekay Esports"
+    },
+    {
+        "image": "../assets/img/teams/Gen.G_Esports.png",
+        "value": "Gen.G_Esports.png",
+        "text": "Gen.G Esports"
+    },
+    {
+        "image": "../assets/img/teams/generic.png",
+        "value": "generic.png",
+        "text": "generic"
+    },
+    {
+        "image": "../assets/img/teams/Genesis.png",
+        "value": "Genesis.png",
+        "text": "Genesis"
+    },
+    {
+        "image": "../assets/img/teams/GeneSix.png",
+        "value": "GeneSix.png",
+        "text": "GeneSix"
+    },
+    {
+        "image": "../assets/img/teams/Gentle_Mates_Alpine_2024.png",
+        "value": "Gentle_Mates_Alpine_2024.png",
+        "text": "Gentle Mates Alpine"
+    },
+    {
+        "image": "../assets/img/teams/Gentlemen.png",
+        "value": "Gentlemen.png",
+        "text": "Gentlemen"
+    },
+    {
+        "image": "../assets/img/teams/German_Amigos.png",
+        "value": "German_Amigos.png",
+        "text": "German Amigos"
+    },
+    {
+        "image": "../assets/img/teams/Ghost_Gaming_2017.png",
+        "value": "Ghost_Gaming_2017.png",
+        "text": "Ghost Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Giants_Gaming_2021.png",
+        "value": "Giants_Gaming_2021.png",
+        "text": "Giants Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Girls.png",
+        "value": "Girls.png",
+        "text": "Girls"
+    },
+    {
+        "image": "../assets/img/teams/Gladiators_2022.png",
+        "value": "Gladiators_2022.png",
+        "text": "Gladiators"
+    },
+    {
+        "image": "../assets/img/teams/God_Speed_2025.png",
+        "value": "God_Speed_2025.png",
+        "text": "God Speed"
+    },
+    {
+        "image": "../assets/img/teams/Godfidence.png",
+        "value": "Godfidence.png",
+        "text": "Godfidence"
+    },
+    {
+        "image": "../assets/img/teams/Ground_Zero_Gaming_2019.png",
+        "value": "Ground_Zero_Gaming_2019.png",
+        "text": "Ground Zero Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Guild_Esports.png",
+        "value": "Guild_Esports.png",
+        "text": "Guild Esports"
+    },
+    {
+        "image": "../assets/img/teams/HEET_2022.png",
+        "value": "HEET_2022.png",
+        "text": "HEET"
+    },
+    {
+        "image": "../assets/img/teams/Hero_Base_2024.png",
+        "value": "Hero_Base_2024.png",
+        "text": "Hero Base"
+    },
+    {
+        "image": "../assets/img/teams/Hey_bro.png",
+        "value": "Hey_bro.png",
+        "text": "Hey bro"
+    },
+    {
+        "image": "../assets/img/teams/Hey__28with_rizz_29.png",
+        "value": "Hey__28with_rizz_29.png",
+        "text": "Hey with rizz"
+    },
+    {
+        "image": "../assets/img/teams/Hogan_Mode_2023.png",
+        "value": "Hogan_Mode_2023.png",
+        "text": "Hogan Mode"
+    },
+    {
+        "image": "../assets/img/teams/IBUYPOWER.png",
+        "value": "IBUYPOWER.png",
+        "text": "IBUYPOWER"
+    },
+    {
+        "image": "../assets/img/teams/Incorrect.png",
+        "value": "Incorrect.png",
+        "text": "Incorrect"
+    },
+    {
+        "image": "../assets/img/teams/Infamous_RL.png",
+        "value": "Infamous_RL.png",
+        "text": "Infamous RL"
+    },
+    {
+        "image": "../assets/img/teams/Infinity_KSA.png",
+        "value": "Infinity_KSA.png",
+        "text": "Infinity KSA"
+    },
+    {
+        "image": "../assets/img/teams/Infused-logos.png",
+        "value": "Infused-logos.png",
+        "text": "Infused-logos"
+    },
+    {
+        "image": "../assets/img/teams/INTZ_2019.png",
+        "value": "INTZ_2019.png",
+        "text": "INTZ"
+    },
+    {
+        "image": "../assets/img/teams/Iz_im_dreamin_logo.png",
+        "value": "Iz_im_dreamin_logo.png",
+        "text": "Iz im dreamin logo"
+    },
+    {
+        "image": "../assets/img/teams/JJROX.png",
+        "value": "JJROX.png",
+        "text": "JJROX"
+    },
+    {
+        "image": "../assets/img/teams/Just_a_Minute_Gaming.png",
+        "value": "Just_a_Minute_Gaming.png",
+        "text": "Just a Minute Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Justice_Esports_2019.png",
+        "value": "Justice_Esports_2019.png",
+        "text": "Justice Esports"
+    },
+    {
+        "image": "../assets/img/teams/Kansas_City_Pioneers_2021.png",
+        "value": "Kansas_City_Pioneers_2021.png",
+        "text": "Kansas City Pioneers"
+    },
+    {
+        "image": "../assets/img/teams/Karmine_Corp.png",
+        "value": "Karmine_Corp.png",
+        "text": "Karmine Corp"
+    },
+    {
+        "image": "../assets/img/teams/KINGS_Esports.png",
+        "value": "KINGS_Esports.png",
+        "text": "KINGS Esports"
+    },
+    {
+        "image": "../assets/img/teams/Kings_of_Urban2.png",
+        "value": "Kings_of_Urban2.png",
+        "text": "Kings of Urban2"
+    },
+    {
+        "image": "../assets/img/teams/KINOTROPE_gaming.png",
+        "value": "KINOTROPE_gaming.png",
+        "text": "KINOTROPE gaming"
+    },
+    {
+        "image": "../assets/img/teams/KOI_2024_blue.png",
+        "value": "KOI_2024_blue.png",
+        "text": "KOI blue"
+    },
+    {
+        "image": "../assets/img/teams/KRN.png",
+        "value": "KRN.png",
+        "text": "KRN"
+    },
+    {
+        "image": "../assets/img/teams/KRU_Esports.png",
+        "value": "KRU_Esports.png",
+        "text": "KRU Esports"
+    },
+    {
+        "image": "../assets/img/teams/Las_Vegas_Inferno_2021.png",
+        "value": "Las_Vegas_Inferno_2021.png",
+        "text": "Las Vegas Inferno"
+    },
+    {
+        "image": "../assets/img/teams/Leftovers.png",
+        "value": "Leftovers.png",
+        "text": "Leftovers"
+    },
+    {
+        "image": "../assets/img/teams/Legacy_Esports_2020.png",
+        "value": "Legacy_Esports_2020.png",
+        "text": "Legacy Esports"
+    },
+    {
+        "image": "../assets/img/teams/Les_payots.png",
+        "value": "Les_payots.png",
+        "text": "Les payots"
+    },
+    {
+        "image": "../assets/img/teams/Leviat_C3_A1n.png",
+        "value": "Leviat_C3_A1n.png",
+        "text": "Leviat C3 A1n"
+    },
+    {
+        "image": "../assets/img/teams/Lil_27_Step_Bros.png",
+        "value": "Lil_27_Step_Bros.png",
+        "text": "Lil Step Bros"
+    },
+    {
+        "image": "../assets/img/teams/Limitless_2022.png",
+        "value": "Limitless_2022.png",
+        "text": "Limitless"
+    },
+    {
+        "image": "../assets/img/teams/liquipedia_icon_menu.png",
+        "value": "liquipedia_icon_menu.png",
+        "text": "liquipedia icon menu"
+    },
+    {
+        "image": "../assets/img/teams/Lotus_2023.png",
+        "value": "Lotus_2023.png",
+        "text": "Lotus"
+    },
+    {
+        "image": "../assets/img/teams/Lotus_8_Esports.png",
+        "value": "Lotus_8_Esports.png",
+        "text": "Lotus Esports"
+    },
+    {
+        "image": "../assets/img/teams/Lowkey_Esports.png",
+        "value": "Lowkey_Esports.png",
+        "text": "Lowkey Esports"
+    },
+    {
+        "image": "../assets/img/teams/LUK_Esports_2025.png",
+        "value": "LUK_Esports_2025.png",
+        "text": "LUK Esports"
+    },
+    {
+        "image": "../assets/img/teams/Luna_Galaxy.png",
+        "value": "Luna_Galaxy.png",
+        "text": "Luna Galaxy"
+    },
+    {
+        "image": "../assets/img/teams/M80_Esports_2024.png",
+        "value": "M80_Esports_2024.png",
+        "text": "M80 Esports"
+    },
+    {
+        "image": "../assets/img/teams/Magnifico.png",
+        "value": "Magnifico.png",
+        "text": "Magnifico"
+    },
+    {
+        "image": "../assets/img/teams/MCon_esports.png",
+        "value": "MCon_esports.png",
+        "text": "MCon esports"
+    },
+    {
+        "image": "../assets/img/teams/Merge_Esports.png",
+        "value": "Merge_Esports.png",
+        "text": "Merge Esports"
+    },
+    {
+        "image": "../assets/img/teams/Method_2018.png",
+        "value": "Method_2018.png",
+        "text": "Method"
+    },
+    {
+        "image": "../assets/img/teams/Mexaclica.png",
+        "value": "Mexaclica.png",
+        "text": "Mexaclica"
+    },
+    {
+        "image": "../assets/img/teams/MGa_eSport_2024.png",
+        "value": "MGa_eSport_2024.png",
+        "text": "MGa eSport"
+    },
+    {
+        "image": "../assets/img/teams/Mindfreak.png",
+        "value": "Mindfreak.png",
+        "text": "Mindfreak"
+    },
+    {
+        "image": "../assets/img/teams/Mirage.png",
+        "value": "Mirage.png",
+        "text": "Mirage Sport C3lectronique"
+    },
+    {
+        "image": "../assets/img/teams/Misfits_Gaming_2023.png",
+        "value": "Misfits_Gaming_2023.png",
+        "text": "Misfits Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Misfits_Gaming_2018.png",
+        "value": "Misfits_Gaming_2018.png",
+        "text": "Misfits Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Mock-It_eSports_2016.png",
+        "value": "Mock-It_eSports_2016.png",
+        "text": "Mock-It eSports"
+    },
+    {
+        "image": "../assets/img/teams/Moist_Esports.png",
+        "value": "Moist_Esports.png",
+        "text": "Moist Esports"
+    },
+    {
+        "image": "../assets/img/teams/Monaco_Esports_2023.png",
+        "value": "Monaco_Esports_2023.png",
+        "text": "Monaco Esports"
+    },
+    {
+        "image": "../assets/img/teams/Monkeys.png",
+        "value": "Monkeys.png",
+        "text": "Monkeys"
+    },
+    {
+        "image": "../assets/img/teams/Morekats.png",
+        "value": "Morekats.png",
+        "text": "Morekats"
+    },
+    {
+        "image": "../assets/img/teams/MOUZ_2021.png",
+        "value": "MOUZ_2021.png",
+        "text": "MOUZ"
+    },
+    {
+        "image": "../assets/img/teams/MTK_Budapest_Esports.png",
+        "value": "MTK_Budapest_Esports.png",
+        "text": "MTK Budapest Esports"
+    },
+    {
+        "image": "../assets/img/teams/MTS_RL.png",
+        "value": "MTS_RL.png",
+        "text": "MTS RL"
+    },
+    {
+        "image": "../assets/img/teams/Muffin_Men.png",
+        "value": "Muffin_Men.png",
+        "text": "Muffin Men"
+    },
+    {
+        "image": "../assets/img/teams/MYinsanity.png",
+        "value": "MYinsanity.png",
+        "text": "MYinsanity"
+    },
+    {
+        "image": "../assets/img/teams/Nefarious_RL.png",
+        "value": "Nefarious_RL.png",
+        "text": "Nefarious RL"
+    },
+    {
+        "image": "../assets/img/teams/Netherlamericanada.png",
+        "value": "Netherlamericanada.png",
+        "text": "Netherlamericanada"
+    },
+    {
+        "image": "../assets/img/teams/Nimmt55_2021.png",
+        "value": "Nimmt55_2021.png",
+        "text": "Nimmt55"
+    },
+    {
+        "image": "../assets/img/teams/Ninjas_in_Pyjamas_2021.png",
+        "value": "Ninjas_in_Pyjamas_2021.png",
+        "text": "Ninjas in Pyjamas"
+    },
+    {
+        "image": "../assets/img/teams/Nixuh_2021.png",
+        "value": "Nixuh_2021.png",
+        "text": "Nixuh"
+    },
+    {
+        "image": "../assets/img/teams/Noble_Esports_2021.png",
+        "value": "Noble_Esports_2021.png",
+        "text": "Noble Esports"
+    },
+    {
+        "image": "../assets/img/teams/Northern_Gaming_2016.png",
+        "value": "Northern_Gaming_2016.png",
+        "text": "Northern Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Not_Exposed_2020.png",
+        "value": "Not_Exposed_2020.png",
+        "text": "Not Exposed"
+    },
+    {
+        "image": "../assets/img/teams/NOVO_Esports_2024.png",
+        "value": "NOVO_Esports_2024.png",
+        "text": "NOVO Esports"
+    },
+    {
+        "image": "../assets/img/teams/Novus_Aevi.png",
+        "value": "Novus_Aevi.png",
+        "text": "Novus Aevi"
+    },
+    {
+        "image": "../assets/img/teams/NRG_2024.png",
+        "value": "NRG_2024.png",
+        "text": "NRG"
+    },
+    {
+        "image": "../assets/img/teams/NRG_2019.png",
+        "value": "NRG_2019.png",
+        "text": "NRG"
+    },
+    {
+        "image": "../assets/img/teams/NXT.png",
+        "value": "NXT.png",
+        "text": "NXT"
+    },
+    {
+        "image": "../assets/img/teams/OG_RB.png",
+        "value": "OG_RB.png",
+        "text": "OG RB"
+    },
+    {
+        "image": "../assets/img/teams/OGC_FC.png",
+        "value": "OGC_FC.png",
+        "text": "OGC FC"
+    },
+    {
+        "image": "../assets/img/teams/Omelette_2024.png",
+        "value": "Omelette_2024.png",
+        "text": "Omelette"
+    },
+    {
+        "image": "../assets/img/teams/Omni_Nation.png",
+        "value": "Omni_Nation.png",
+        "text": "Omni Nation"
+    },
+    {
+        "image": "../assets/img/teams/Onyx_Ravens_2023.png",
+        "value": "Onyx_Ravens_2023.png",
+        "text": "Onyx Ravens"
+    },
+    {
+        "image": "../assets/img/teams/OpTic_Gaming.png",
+        "value": "OpTic_Gaming.png",
+        "text": "OpTic Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Orbit_eSports.png",
+        "value": "Orbit_eSports.png",
+        "text": "Orbit eSports"
+    },
+    {
+        "image": "../assets/img/teams/ORDER.png",
+        "value": "ORDER.png",
+        "text": "ORDER"
+    },
+    {
+        "image": "../assets/img/teams/Orlando_Pirates.png",
+        "value": "Orlando_Pirates.png",
+        "text": "Orlando Pirates"
+    },
+    {
+        "image": "../assets/img/teams/Osh-Tekk_Warriors_2019.png",
+        "value": "Osh-Tekk_Warriors_2019.png",
+        "text": "Osh-Tekk Warriors"
+    },
+    {
+        "image": "../assets/img/teams/Out_of_Order_RL.png",
+        "value": "Out_of_Order_RL.png",
+        "text": "Out of Order RL"
+    },
+    {
+        "image": "../assets/img/teams/Out_of_Style.png",
+        "value": "Out_of_Style.png",
+        "text": "Out of Style"
+    },
+    {
+        "image": "../assets/img/teams/Overlookedallmode.png",
+        "value": "Overlookedallmode.png",
+        "text": "Overlookedallmode"
+    },
+    {
+        "image": "../assets/img/teams/Overt.png",
+        "value": "Overt.png",
+        "text": "Overt"
+    },
+    {
+        "image": "../assets/img/teams/OWL_Esports.png",
+        "value": "OWL_Esports.png",
+        "text": "OWL Esports"
+    },
+    {
+        "image": "../assets/img/teams/Oxygen_Esports_2023.png",
+        "value": "Oxygen_Esports_2023.png",
+        "text": "Oxygen Esports"
+    },
+    {
+        "image": "../assets/img/teams/PaleHorse.png",
+        "value": "PaleHorse.png",
+        "text": "PaleHorse"
+    },
+    {
+        "image": "../assets/img/teams/Papo_de_Visao.png",
+        "value": "Papo_de_Visao.png",
+        "text": "Papo de Visao"
+    },
+    {
+        "image": "../assets/img/teams/Parabellum_Esports_2023.png",
+        "value": "Parabellum_Esports_2023.png",
+        "text": "Parabellum Esports"
+    },
+    {
+        "image": "../assets/img/teams/Pineapple_Cake_2021.png",
+        "value": "Pineapple_Cake_2021.png",
+        "text": "Pineapple Cake"
+    },
+    {
+        "image": "../assets/img/teams/Pirates_on_a_Boat.png",
+        "value": "Pirates_on_a_Boat.png",
+        "text": "Pirates on a Boat"
+    },
+    {
+        "image": "../assets/img/teams/Plot_Twist.png",
+        "value": "Plot_Twist.png",
+        "text": "Plot Twist"
+    },
+    {
+        "image": "../assets/img/teams/Precision_Z2.png",
+        "value": "Precision_Z2.png",
+        "text": "Precision Z2"
+    },
+    {
+        "image": "../assets/img/teams/Prodigy.png",
+        "value": "Prodigy.png",
+        "text": "Prodigy"
+    },
+    {
+        "image": "../assets/img/teams/PSG.png",
+        "value": "PSG.png",
+        "text": "PSG"
+    },
+    {
+        "image": "../assets/img/teams/PSG_TUNDRA.png",
+        "value": "PSG_TUNDRA.png",
+        "text": "PSG TUNDRA"
+    },
+    {
+        "image": "../assets/img/teams/PWR.png",
+        "value": "PWR.png",
+        "text": "PWR"
+    },
+    {
+        "image": "../assets/img/teams/Quadrant.png",
+        "value": "Quadrant.png",
+        "text": "Quadrant"
+    },
+    {
+        "image": "../assets/img/teams/Quick_Esports.png",
+        "value": "Quick_Esports.png",
+        "text": "Quick Esports"
+    },
+    {
+        "image": "../assets/img/teams/R8_Esports_2022.png",
+        "value": "R8_Esports_2022.png",
+        "text": "R8 Esports"
+    },
+    {
+        "image": "../assets/img/teams/Randoms.png",
+        "value": "Randoms.png",
+        "text": "Randoms"
+    },
+    {
+        "image": "../assets/img/teams/RBG_Esports_2019.png",
+        "value": "RBG_Esports_2019.png",
+        "text": "RBG Esports"
+    },
+    {
+        "image": "../assets/img/teams/RCD_Espanyol_de_Barcelona.png",
+        "value": "RCD_Espanyol_de_Barcelona.png",
+        "text": "RCD Espanyol de Barcelona"
+    },
+    {
+        "image": "../assets/img/teams/Reason_Gaming.png",
+        "value": "Reason_Gaming.png",
+        "text": "Reason Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Rebel.png",
+        "value": "Rebel.png",
+        "text": "Rebel"
+    },
+    {
+        "image": "../assets/img/teams/Red_Reserve_2018.png",
+        "value": "Red_Reserve_2018.png",
+        "text": "Red Reserve"
+    },
+    {
+        "image": "../assets/img/teams/Redemption.png",
+        "value": "Redemption.png",
+        "text": "Redemption"
+    },
+    {
+        "image": "../assets/img/teams/Renegades_2019.png",
+        "value": "Renegades_2019.png",
+        "text": "Renegades"
+    },
+    {
+        "image": "../assets/img/teams/Resolve_2023.png",
+        "value": "Resolve_2023.png",
+        "text": "Resolve"
+    },
+    {
+        "image": "../assets/img/teams/Revelation.png",
+        "value": "Revelation.png",
+        "text": "Revelation"
+    },
+    {
+        "image": "../assets/img/teams/Rival_Rush.png",
+        "value": "Rival_Rush.png",
+        "text": "Rival Rush"
+    },
+    {
+        "image": "../assets/img/teams/Rix.GG_April2021.png",
+        "value": "Rix.GG_April2021.png",
+        "text": "Rix.GG April2021"
+    },
+    {
+        "image": "../assets/img/teams/ROC_Esports_2024.png",
+        "value": "ROC_Esports_2024.png",
+        "text": "ROC Esports"
+    },
+    {
+        "image": "../assets/img/teams/Rocket_League_default.png",
+        "value": "Rocket_League_default.png",
+        "text": "Rocket League default"
+    },
+    {
+        "image": "../assets/img/teams/Rogue_2021.png",
+        "value": "Rogue_2021.png",
+        "text": "Rogue"
+    },
+    {
+        "image": "../assets/img/teams/R_21OT_Gaming_2021.png",
+        "value": "R_21OT_Gaming_2021.png",
+        "text": "ROT Gaming"
+    },
+    {
+        "image": "../assets/img/teams/ROUNDS_2025.png",
+        "value": "ROUNDS_2025.png",
+        "text": "ROUNDS"
+    },
+    {
+        "image": "../assets/img/teams/ROUNDS_2025_darkmode.png",
+        "value": "ROUNDS_2025_darkmode.png",
+        "text": "ROUNDS darkmode"
+    },
+    {
+        "image": "../assets/img/teams/RRG.png",
+        "value": "RRG.png",
+        "text": "RRG"
+    },
+    {
+        "image": "../assets/img/teams/Rule_One.png",
+        "value": "Rule_One.png",
+        "text": "Rule One"
+    },
+    {
+        "image": "../assets/img/teams/Sandrock_Gaming_2021.png",
+        "value": "Sandrock_Gaming_2021.png",
+        "text": "Sandrock Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Saudi_eLeague_icon.png",
+        "value": "Saudi_eLeague_icon.png",
+        "text": "Saudi eLeague icon"
+    },
+    {
+        "image": "../assets/img/teams/Savage_21.png",
+        "value": "Savage_21.png",
+        "text": "Savage"
+    },
+    {
+        "image": "../assets/img/teams/Save_the_game_adjusted.png",
+        "value": "Save_the_game_adjusted.png",
+        "text": "Save the game adjusted"
+    },
+    {
+        "image": "../assets/img/teams/SCYTES.png",
+        "value": "SCYTES.png",
+        "text": "SCYTES"
+    },
+    {
+        "image": "../assets/img/teams/Selfless_Gaming_2016.png",
+        "value": "Selfless_Gaming_2016.png",
+        "text": "Selfless Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Semper_Esports.png",
+        "value": "Semper_Esports.png",
+        "text": "Semper Esports"
+    },
+    {
+        "image": "../assets/img/teams/Senja_Esports.png",
+        "value": "Senja_Esports.png",
+        "text": "Senja Esports"
+    },
+    {
+        "image": "../assets/img/teams/Sentient_Esports_2023.png",
+        "value": "Sentient_Esports_2023.png",
+        "text": "Sentient Esports"
+    },
+    {
+        "image": "../assets/img/teams/Servette_Geneva_eSports_2018.png",
+        "value": "Servette_Geneva_eSports_2018.png",
+        "text": "Servette Geneva eSports"
+    },
+    {
+        "image": "../assets/img/teams/Shopify_Rebellion_2021.png",
+        "value": "Shopify_Rebellion_2021.png",
+        "text": "Shopify Rebellion"
+    },
+    {
+        "image": "../assets/img/teams/Sick.png",
+        "value": "Sick.png",
+        "text": "Sick"
+    },
+    {
+        "image": "../assets/img/teams/Singularity_Esports_2018.png",
+        "value": "Singularity_Esports_2018.png",
+        "text": "Singularity Esports"
+    },
+    {
+        "image": "../assets/img/teams/SK_Gaming_2022.png",
+        "value": "SK_Gaming_2022.png",
+        "text": "SK Gaming"
+    },
+    {
+        "image": "../assets/img/teams/SKRIMZWORLD.png",
+        "value": "SKRIMZWORLD.png",
+        "text": "SKRIMZWORLD"
+    },
+    {
+        "image": "../assets/img/teams/Sleeping.png",
+        "value": "Sleeping.png",
+        "text": "Sleeping"
+    },
+    {
+        "image": "../assets/img/teams/Sleeping_RL.png",
+        "value": "Sleeping_RL.png",
+        "text": "Sleeping RL"
+    },
+    {
+        "image": "../assets/img/teams/Sol.png",
+        "value": "Sol.png",
+        "text": "Sol"
+    },
+    {
+        "image": "../assets/img/teams/Solary.png",
+        "value": "Solary.png",
+        "text": "Solary"
+    },
+    {
+        "image": "../assets/img/teams/Spacestation_Gaming_2021.png",
+        "value": "Spacestation_Gaming_2021.png",
+        "text": "Spacestation Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Splyce_2017.png",
+        "value": "Splyce_2017.png",
+        "text": "Splyce"
+    },
+    {
+        "image": "../assets/img/teams/Startpoint_2025_logo.png",
+        "value": "Startpoint_2025_logo.png",
+        "text": "Startpoint logo"
+    },
+    {
+        "image": "../assets/img/teams/Stromboli.png",
+        "value": "Stromboli.png",
+        "text": "Stromboli"
+    },
+    {
+        "image": "../assets/img/teams/Suhhh.png",
+        "value": "Suhhh.png",
+        "text": "Suhhh"
+    },
+    {
+        "image": "../assets/img/teams/Sup.png",
+        "value": "Sup.png",
+        "text": "Sup"
+    },
+    {
+        "image": "../assets/img/teams/Susquehanna_Soniqs.png",
+        "value": "Susquehanna_Soniqs.png",
+        "text": "Susquehanna Soniqs"
+    },
+    {
+        "image": "../assets/img/teams/Sv_Raketligan_Icon.png",
+        "value": "Sv_Raketligan_Icon.png",
+        "text": "Sv Raketligan Icon"
+    },
+    {
+        "image": "../assets/img/teams/Synergy_2025.png",
+        "value": "Synergy_2025.png",
+        "text": "Synergy"
+    },
+    {
+        "image": "../assets/img/teams/Tainted_Minds.png",
+        "value": "Tainted_Minds.png",
+        "text": "Tainted Minds"
+    },
+    {
+        "image": "../assets/img/teams/Take_3_2023.png",
+        "value": "Take_3_2023.png",
+        "text": "Take"
+    },
+    {
+        "image": "../assets/img/teams/Team_Allegiance.png",
+        "value": "Team_Allegiance.png",
+        "text": "Team Allegiance"
+    },
+    {
+        "image": "../assets/img/teams/Team_AXLE.png",
+        "value": "Team_AXLE.png",
+        "text": "Team AXLE"
+    },
+    {
+        "image": "../assets/img/teams/Team_BDS_2021.png",
+        "value": "Team_BDS_2021.png",
+        "text": "Team BDS"
+    },
+    {
+        "image": "../assets/img/teams/Team_Bliss.png",
+        "value": "Team_Bliss.png",
+        "text": "Team Bliss"
+    },
+    {
+        "image": "../assets/img/teams/Team_Dignitas.png",
+        "value": "Team_Dignitas.png",
+        "text": "Team Dignitas"
+    },
+    {
+        "image": "../assets/img/teams/Team_Evo_RL.png",
+        "value": "Team_Evo_RL.png",
+        "text": "Team Evo RL"
+    },
+    {
+        "image": "../assets/img/teams/Team_EXE_2021.png",
+        "value": "Team_EXE_2021.png",
+        "text": "Team EXE"
+    },
+    {
+        "image": "../assets/img/teams/Team_Falcons_2022.png",
+        "value": "Team_Falcons_2022.png",
+        "text": "Team Falcons"
+    },
+    {
+        "image": "../assets/img/teams/Team_Falcons_2022_allmode.png",
+        "value": "Team_Falcons_2022_allmode.png",
+        "text": "Team Falcons allmode"
+    },
+    {
+        "image": "../assets/img/teams/Team_HOSKY_2024_October.png",
+        "value": "Team_HOSKY_2024_October.png",
+        "text": "Team HOSKY October"
+    },
+    {
+        "image": "../assets/img/teams/Team_iXA.png",
+        "value": "Team_iXA.png",
+        "text": "Team iXA"
+    },
+    {
+        "image": "../assets/img/teams/Team_Liquid_2023.png",
+        "value": "Team_Liquid_2023.png",
+        "text": "Team Liquid"
+    },
+    {
+        "image": "../assets/img/teams/Team_Mobula.png",
+        "value": "Team_Mobula.png",
+        "text": "Team Mobula"
+    },
+    {
+        "image": "../assets/img/teams/Team_Queso_2021.png",
+        "value": "Team_Queso_2021.png",
+        "text": "Team Queso"
+    },
+    {
+        "image": "../assets/img/teams/Team_Reciprocity.png",
+        "value": "Team_Reciprocity.png",
+        "text": "Team Reciprocity"
+    },
+    {
+        "image": "../assets/img/teams/Team_Secret.png",
+        "value": "Team_Secret.png",
+        "text": "Team Secret"
+    },
+    {
+        "image": "../assets/img/teams/Team_Vertex.png",
+        "value": "Team_Vertex.png",
+        "text": "Team Vertex"
+    },
+    {
+        "image": "../assets/img/teams/Team_Vision_SA.png",
+        "value": "Team_Vision_SA.png",
+        "text": "Team Vision SA"
+    },
+    {
+        "image": "../assets/img/teams/Team_Vitality_2023.png",
+        "value": "Team_Vitality_2023.png",
+        "text": "Team Vitality"
+    },
+    {
+        "image": "../assets/img/teams/Team_Vitality_2018.png",
+        "value": "Team_Vitality_2018.png",
+        "text": "Team Vitality"
+    },
+    {
+        "image": "../assets/img/teams/Team_WMB_2020.png",
+        "value": "Team_WMB_2020.png",
+        "text": "Team WMB"
+    },
+    {
+        "image": "../assets/img/teams/The_Bricks_2022.png",
+        "value": "The_Bricks_2022.png",
+        "text": "The Bricks"
+    },
+    {
+        "image": "../assets/img/teams/The_Clappers.png",
+        "value": "The_Clappers.png",
+        "text": "The Clappers"
+    },
+    {
+        "image": "../assets/img/teams/The_Club.png",
+        "value": "The_Club.png",
+        "text": "The Club"
+    },
+    {
+        "image": "../assets/img/teams/The_D00ds.png",
+        "value": "The_D00ds.png",
+        "text": "The D00ds"
+    },
+    {
+        "image": "../assets/img/teams/The_Elites_2024.png",
+        "value": "The_Elites_2024.png",
+        "text": "The Elites"
+    },
+    {
+        "image": "../assets/img/teams/The_Him_Police_Logo.png",
+        "value": "The_Him_Police_Logo.png",
+        "text": "The Him Police Logo"
+    },
+    {
+        "image": "../assets/img/teams/The_Juicy_Kids.png",
+        "value": "The_Juicy_Kids.png",
+        "text": "The Juicy Kids"
+    },
+    {
+        "image": "../assets/img/teams/The_Lakeshow.png",
+        "value": "The_Lakeshow.png",
+        "text": "The Lakeshow"
+    },
+    {
+        "image": "../assets/img/teams/The_Peeps.png",
+        "value": "The_Peeps.png",
+        "text": "The Peeps"
+    },
+    {
+        "image": "../assets/img/teams/The_Razzle_Dazzlers_2020.png",
+        "value": "The_Razzle_Dazzlers_2020.png",
+        "text": "The Razzle Dazzlers"
+    },
+    {
+        "image": "../assets/img/teams/The_Snowmen.png",
+        "value": "The_Snowmen.png",
+        "text": "The Snowmen"
+    },
+    {
+        "image": "../assets/img/teams/The_Three_Sins.png",
+        "value": "The_Three_Sins.png",
+        "text": "The Three Sins"
+    },
+    {
+        "image": "../assets/img/teams/The_Ultimates_2020.png",
+        "value": "The_Ultimates_2020.png",
+        "text": "The Ultimates"
+    },
+    {
+        "image": "../assets/img/teams/Three_Rats_2021.png",
+        "value": "Three_Rats_2021.png",
+        "text": "Three Rats"
+    },
+    {
+        "image": "../assets/img/teams/Tokyo_Verdy_Esports.png",
+        "value": "Tokyo_Verdy_Esports.png",
+        "text": "Tokyo Verdy Esports"
+    },
+    {
+        "image": "../assets/img/teams/Top_Blokes_2022.png",
+        "value": "Top_Blokes_2022.png",
+        "text": "Top Blokes"
+    },
+    {
+        "image": "../assets/img/teams/Top_Cougars.png",
+        "value": "Top_Cougars.png",
+        "text": "Top Cougars"
+    },
+    {
+        "image": "../assets/img/teams/Torrent_2021.png",
+        "value": "Torrent_2021.png",
+        "text": "Torrent"
+    },
+    {
+        "image": "../assets/img/teams/TrainHard_eSport_2021.png",
+        "value": "TrainHard_eSport_2021.png",
+        "text": "TrainHard eSport"
+    },
+    {
+        "image": "../assets/img/teams/Triple_Trouble_2019.png",
+        "value": "Triple_Trouble_2019.png",
+        "text": "Triple Trouble"
+    },
+    {
+        "image": "../assets/img/teams/True_Neutral_2020.png",
+        "value": "True_Neutral_2020.png",
+        "text": "True Neutral"
+    },
+    {
+        "image": "../assets/img/teams/TSM_2019.png",
+        "value": "TSM_2019.png",
+        "text": "TSM"
+    },
+    {
+        "image": "../assets/img/teams/Tundra_Esports_2020.png",
+        "value": "Tundra_Esports_2020.png",
+        "text": "Tundra Esports"
+    },
+    {
+        "image": "../assets/img/teams/Twisted_Minds_2023.png",
+        "value": "Twisted_Minds_2023.png",
+        "text": "Twisted Minds"
+    },
+    {
+        "image": "../assets/img/teams/UHUH_2023.png",
+        "value": "UHUH_2023.png",
+        "text": "UHUH"
+    },
+    {
+        "image": "../assets/img/teams/University_Rocketeers_2022.png",
+        "value": "University_Rocketeers_2022.png",
+        "text": "University Rocketeers"
+    },
+    {
+        "image": "../assets/img/teams/Upper90_Esports_2019.png",
+        "value": "Upper90_Esports_2019.png",
+        "text": "Upper90 Esports"
+    },
+    {
+        "image": "../assets/img/teams/VALIANT_2023.png",
+        "value": "VALIANT_2023.png",
+        "text": "VALIANT"
+    },
+    {
+        "image": "../assets/img/teams/Veloce_Esports.png",
+        "value": "Veloce_Esports.png",
+        "text": "Veloce Esports"
+    },
+    {
+        "image": "../assets/img/teams/Version1_2021.png",
+        "value": "Version1_2021.png",
+        "text": "Version1"
+    },
+    {
+        "image": "../assets/img/teams/Vibrance_2021.png",
+        "value": "Vibrance_2021.png",
+        "text": "Vibrance"
+    },
+    {
+        "image": "../assets/img/teams/W7M_esports.png",
+        "value": "W7M_esports.png",
+        "text": "W7M esports"
+    },
+    {
+        "image": "../assets/img/teams/W7M_esports_darkmode.png",
+        "value": "W7M_esports_darkmode.png",
+        "text": "W7M esports darkmode"
+    },
+    {
+        "image": "../assets/img/teams/Washed_Up_Boys.png",
+        "value": "Washed_Up_Boys.png",
+        "text": "Washed Up Boys"
+    },
+    {
+        "image": "../assets/img/teams/We_Dem_Girlz.png",
+        "value": "We_Dem_Girlz.png",
+        "text": "We Dem Girlz"
+    },
+    {
+        "image": "../assets/img/teams/White_Demons.png",
+        "value": "White_Demons.png",
+        "text": "White Demons"
+    },
+    {
+        "image": "../assets/img/teams/White_Rabbit_Gaming_2022.png",
+        "value": "White_Rabbit_Gaming_2022.png",
+        "text": "White Rabbit Gaming"
+    },
+    {
+        "image": "../assets/img/teams/Wildcard_2024.png",
+        "value": "Wildcard_2024.png",
+        "text": "Wildcard"
+    },
+    {
+        "image": "../assets/img/teams/Wolves_Esports.png",
+        "value": "Wolves_Esports.png",
+        "text": "Wolves Esports"
+    },
+    {
+        "image": "../assets/img/teams/WOO.png",
+        "value": "WOO.png",
+        "text": "WOO"
+    },
+    {
+        "image": "../assets/img/teams/WYLDE_2024_July.png",
+        "value": "WYLDE_2024_July.png",
+        "text": "WYLDE"
+    },
+    {
+        "image": "../assets/img/teams/Xayfhers_2021.png",
+        "value": "Xayfhers_2021.png",
+        "text": "Xayfhers"
+    },
+    {
+        "image": "../assets/img/teams/XSET.png",
+        "value": "XSET.png",
+        "text": "XSET"
+    },
+    {
+        "image": "../assets/img/teams/YapVille.png",
+        "value": "YapVille.png",
+        "text": "YapVille"
+    },
+    {
+        "image": "../assets/img/teams/Yokohama_F._Marinos.png",
+        "value": "Yokohama_F._Marinos.png",
+        "text": "Yokohama F. Marinos"
+    },
+    {
+        "image": "../assets/img/teams/Zookeepers_2020.png",
+        "value": "Zookeepers_2020.png",
+        "text": "Zookeepers"
+    }
+]
