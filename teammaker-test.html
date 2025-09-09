@@ -121,50 +121,55 @@
                 console.log(data.value);
                 const [e_logo, e_fn, e_tn, e_t1p1, e_f1p1, e_t1p2, e_f1p2, e_t1p3, e_f1p3, e_t1tag, e_c1, e_f1c1, e_t1c1, e_c2, e_f1c2, e_t1c2, e_c3, e_f1c3, e_t1c3] = data.value.split("|");
                 t1logo.src = e_logo;
+                t1logo.srcset = e_logo;
                 t1cont.src = e_fn;
+                t1cont.srcset = e_fn;
                 t1name.innerHTML = e_tn;
                 t1p1.innerHTML = e_t1p1;
                 t1p1flag.src = e_f1p1;
+                t1p1flag.srcset = e_f1p1;
                 t1p2.innerHTML = e_t1p2;
                 t1p2flag.src = e_f1p2;
+                t1p2flag.srcset = e_f1p2;
                 t1p3.innerHTML = e_t1p3;
                 t1p3flag.src = e_f1p3;
+                t1p3flag.srcset = e_f1p3;
                 t1tag.innerHTML = e_t1tag;
 
-                if (e_c1 == true) {
+                if (e_c1 == "true") {
                     document.getElementById("coach1-tr").innerHTML = `
                                 <th>C</th>
                                 <td><span class="flag"><a href="/rocketleague/Category:United_States"
                                             title="United States"><img alt="United States" id="t1c1-flag"
                                                 src="${e_f1c1}" decoding="async" width="36"
                                                 height="24"
-                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                                srcset="${e_f1c1}"></a></span>&nbsp;<a
                                         href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1c1">${e_t1c1}</a></td>
                     `
                 } else {
                     document.getElementById("coach1-tr").innerHTML = "";
                 }
-                if (e_c2 == true) {
+                if (e_c2 == "true") {
                     document.getElementById("coach2-tr").innerHTML = `
                                 <th>C</th>
                                 <td><span class="flag"><a href="/rocketleague/Category:United_States"
                                             title="United States"><img alt="United States" id="t1c1-flag"
                                                 src="${e_f1c2}" decoding="async" width="36"
                                                 height="24"
-                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                                srcset="${e_f1c2}"></a></span>&nbsp;<a
                                         href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1c2">${e_t1c2}</a></td>
                     `
                 } else {
                     document.getElementById("coach2-tr").innerHTML = "";
                 }
-                if (e_c3 == true) {
+                if (e_c3 == "true") {
                     document.getElementById("coach3-tr").innerHTML = `
                                 <th>C</th>
                                 <td><span class="flag"><a href="/rocketleague/Category:United_States"
                                             title="United States"><img alt="United States" id="t1c1-flag"
                                                 src="${e_f1c3}" decoding="async" width="36"
                                                 height="24"
-                                                srcset="assets/img/flags/54px-Us_hd.png 1.5x, assets/img/flags/72px-Us_hd.png 2x"></a></span>&nbsp;<a
+                                                srcset="${e_f1c3}"></a></span>&nbsp;<a
                                         href="/rocketleague/0ver_Zer0" title="0ver Zer0" id="t1c3">${e_t1c3}</a></td>
                     `
                 } else {

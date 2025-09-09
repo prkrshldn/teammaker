@@ -1,5 +1,9 @@
 [
     {
+        "image": "assets/img/flags/none_hd.png",
+        "text": "None"
+    },
+    {
         "image": "assets/img/flags/36px-African_union_hd.png",
         "text": "Africa (Region)"
     },
